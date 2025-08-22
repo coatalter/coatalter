@@ -12,9 +12,6 @@ dan juga jika kalian tertarik kunjungi portofolia saya yang [Portofolio](https:/
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/raydamar-rizkyaka-riyadi-641a702b9/) dan lihat project saya di [GitHub](https://github.com/coatalter).
 
 ### Tech Stack
-
-### Tech Stack
-
 <!-- Languages -->
 <a href="#"><img align="left" alt="Lua" title="Lua" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /></a>
 <a href="#"><img align="left" alt="Luau" title="Luau" width="21px" src="https://raw.githubusercontent.com/Roblox/luau/master/docs/images/logo.png" /></a>

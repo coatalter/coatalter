@@ -1,12 +1,14 @@
 # Halo semua! 👋
 
-Saya **Raydamar Rizkyaka Riyadi**, seorang **Mahasiswa Informatika** yang tertarik pada bidang **Web Development, Back-End, dan Jaringan Komputer**.  
-Saat ini saya mengikuti program **Dicoding Asah** dengan learning path **React & Back-End with AI**.  
+Saya **Raydamar Rizkyaka Riyadi**, seorang **Mahasiswa Informatika** yang berfokus pada **Web Development, Back-End Engineering, dan Jaringan Komputer**.  
+Saat ini saya mengikuti program **Dicoding Asah** dengan learning path **React & Back-End with AI**. 🚀  
 
-Saya aktif mengerjakan project berbasis **PHP, MySQL, Laravel**, serta implementasi jaringan dengan **Cisco Packet Tracer**.  
+💡 Saya aktif mengembangkan project berbasis **PHP, MySQL, Laravel**, serta membangun dan mengimplementasikan topologi jaringan menggunakan **Cisco Packet Tracer**.  
+Selain itu, saya juga mengeksplorasi **Game Development** sebagai hobi dengan **Roblox Studio, Unity, dan Godot**.  
+
 👉 Kunjungi portofolio saya di [tamayaren.xyz](https://tamayaren.xyz/)  
 
-📌 Jika tertarik untuk berkenalan, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/raydamar-rizkyaka-riyadi-641a702b9/) atau lihat project saya di [GitHub](https://github.com/coatalter).
+📌 Jangan sungkan untuk berkenalan, bisa melalui [LinkedIn](https://www.linkedin.com/in/raydamar-rizkyaka-riyadi-641a702b9/) atau cek project saya di [GitHub](https://github.com/coatalter).
 
 ---
 
@@ -14,7 +16,7 @@ Saya aktif mengerjakan project berbasis **PHP, MySQL, Laravel**, serta implement
 
 | Languages | Game Dev | Tools |
 |-----------|----------|-------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="30"/> | <img src="https://images.rbxcdn.com/7c5fe83dffa97250aaddd54178900ea7.png" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="30"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="30"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="35"/> | <img src="https://images.rbxcdn.com/7c5fe83dffa97250aaddd54178900ea7.png" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="35"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="35"/> |
 
 ---
 
@@ -30,5 +32,5 @@ Saya aktif mengerjakan project berbasis **PHP, MySQL, Laravel**, serta implement
 ## 📬 Reach Me
 - 📎 [LinkedIn](https://www.linkedin.com/in/raydamar-rizkyaka-riyadi-641a702b9/)  
 - 🌐 [Tamayaren](https://tamayaren.xyz/)  
-- ✉️ raydamarriyadi@gmail.com / tamayaren@proton.me  
-- 🐦 [Twitter](https://x.com/alteredcoat)  
+- ✉️ **raydamarriyadi@gmail.com** / **tamayaren@proton.me**  
+- 🐦 [Twitter / X](https://x.com/alteredcoat)  

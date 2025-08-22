@@ -13,9 +13,11 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](http
 
 ### Tech Stack
 
+### Tech Stack
+
 <!-- Languages -->
 <a href="#"><img align="left" alt="Lua" title="Lua" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /></a>
-<a href="#"><img align="left" alt="Luau" title="Luau" width="21px" src="https://github.com/Roblox/luau/raw/master/docs/images/logo.png" /></a>
+<a href="#"><img align="left" alt="Luau" title="Luau" width="21px" src="https://raw.githubusercontent.com/Roblox/luau/master/docs/images/logo.png" /></a>
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="#"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
@@ -27,9 +29,12 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](http
 <br>
 
 <!-- Game Development -->
-<a href="#"><img align="left" alt="Roblox Studio" title="Roblox Studio" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Roblox_Studio_logo_2021_present.svg" /></a>
+<a href="#"><img align="left" alt="Roblox Studio" title="Roblox Studio" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Roblox_Studio_icon_2021_present.svg" /></a>
 <a href="#"><img align="left" alt="Unity" title="Unity Engine" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" /></a>
 <a href="#"><img align="left" alt="Godot" title="Godot Engine" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" /></a>
+
+<br>
+<br>
 
 <br>
 <br>

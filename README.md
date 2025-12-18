@@ -6,8 +6,6 @@ Saat ini saya mengikuti program **Dicoding Asah** dengan learning path **React &
 💡 Saya aktif mengembangkan project berbasis **PHP, MySQL, Laravel**, serta membangun dan mengimplementasikan topologi jaringan menggunakan **Cisco Packet Tracer**.  
 Selain itu, saya juga mengeksplorasi **Game Development** sebagai hobi dengan **Roblox Studio, Unity, dan Godot**.  
 
-👉 Kunjungi portofolio saya di [tamayaren.xyz](https://tamayaren.xyz/)  
-
 📌 Jangan sungkan untuk berkenalan, bisa melalui [LinkedIn](https://www.linkedin.com/in/raydamar-rizkyaka-riyadi-641a702b9/) atau cek project saya di [GitHub](https://github.com/coatalter).
 
 ---
@@ -31,6 +29,5 @@ Selain itu, saya juga mengeksplorasi **Game Development** sebagai hobi dengan **
 
 ## 📬 Reach Me
 - 📎 [LinkedIn](https://www.linkedin.com/in/raydamar-rizkyaka-riyadi-641a702b9/)  
-- 🌐 [Tamayaren](https://tamayaren.xyz/)  
-- ✉️ **raydamarriyadi@gmail.com** / **tamayaren@proton.me**  
+- ✉️ **raydamarriyadi@gmail.com**
 - 🐦 [Twitter / X](https://x.com/alteredcoat)  

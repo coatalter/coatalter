@@ -1,15 +1,5 @@
 # Halo semua! 👋
 
-Saya **Raydamar Rizkyaka Riyadi**, seorang **Mahasiswa Informatika** yang berfokus pada **Web Development, Back-End Engineering, dan Jaringan Komputer**.  
-Saat ini saya mengikuti program **Dicoding Asah** dengan learning path **React & Back-End with AI**. 🚀  
-
-💡 Saya aktif mengembangkan project berbasis **PHP, MySQL, Laravel**, serta membangun dan mengimplementasikan topologi jaringan menggunakan **Cisco Packet Tracer**.  
-Selain itu, saya juga mengeksplorasi **Game Development** sebagai hobi dengan **Roblox Studio, Unity, dan Godot**.  
-
-📌 Jangan sungkan untuk berkenalan, bisa melalui [LinkedIn](https://www.linkedin.com/in/raydamar-rizkyaka-riyadi-641a702b9/) atau cek project saya di [GitHub](https://github.com/coatalter).
-
----
-
 ## 🛠 Tech Stack
 
 | Languages | Game Dev | Tools |

@@ -1,60 +1,73 @@
 # Halo semua! 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Internship%20%40UPT%20TIK%20UPR-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20AI-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Internship%20%40UPT%20TIK%20UPR-blue?style=for-the-badge&logo=google-cloud" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20AI-orange?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/University-UPR-red?style=for-the-badge" />
 </p>
 
-I'm a **Computer Science Student**  with a deep interest in building scalable web applications and exploring the potential of Machine Learning. Currently honing my skills in the **React & Back-End AI** ecosystem.
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=coatalter&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/coatalter?label=Followers&style=social" />
+</p>
+
+I'm a **Computer Science Student**. I bridge the gap between robust Back-End logic and interactive Front-End design, while exploring the frontier of Machine Learning.
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coatalter&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+### 🚀 Featured Experience & Projects
+- 🏢 **UPT TIK Universitas Palangka Raya** | *Intern Developer* (2025 - Present)
+- 📊 **Predictive Lead Scoring Portal** | *Full-Stack & ML Developer*
+  - Built for Banking Sales optimization during the **Asah Independent Study** program.
+- 🏘️ **Desa Digital Prototype** | *Lead Developer*
+  - Digital infrastructure system for Diskominfo Kabupaten Katingan.
+- 🛒 **BeByte POS** | *Creator*
+  - Custom Point of Sale system with real-time Discord API integration.
+
+---
+
+### 🛠 Technical Toolbox
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Roblox_Lua-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoHotkey-121D31?style=for-the-badge&logo=autohotkey&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Highlight Projects
-* **Predictive Lead Scoring Portal** | *Lead Developer*
-    * Implementing ML models to optimize banking sales workflows.
-* **Desa Digital Information System** | *Full-stack Developer*
-    * Building digital infrastructure for Diskominfo Kabupaten Katingan.
-* **BeByte POS System** | *Creator*
-    * Web-based point of sale with real-time Discord notification integration.
-
----
-
-### 🛠 Technical Proficiency
-
-| Category | Tech Stack |
-| :--- | :--- |
-| **Frontend** | `React.js` `Tailwind CSS` `JavaScript (ES6+)` `TypeScript` |
-| **Backend** | `Node.js` `Express` `PHP` `Firebase` |
-| **AI & Data** | `Python` `Scikit-learn` `Pandas` `TensorFlow` |
-| **Others** | `Git` `GitHub` `Google Cloud Platform` `Lua` `AutoHotkey` |
-
----
-
-### 📊 Professional Statistics
+### 📊 Professional Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coatalter&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coatalter&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coatalter&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=false" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coatalter&layout=compact&langs_count=8&theme=algolia&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coatalter&theme=algolia&hide_border=true&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coatalter&theme=algolia&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coatalter&theme=algolia&hide_border=false&area=true" />
 </p>
 
 ---
 
 ### 📬 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/raydamar-rizkyaka-riyadi-641a702b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raydamar" height="30" width="40" /></a>
-  <a href="https://x.com/alteredcoat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alteredcoat" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/raydamar-rizkyaka-riyadi-641a702b9/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:raydamarriyadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/alteredcoat" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<p align="right"><i>"Keep pushing the boundaries of what's possible with code."</i></p>
+<p align="right"><i>"Building the future, one line of code at a time."</i></p>
